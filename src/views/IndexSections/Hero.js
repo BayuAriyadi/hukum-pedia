@@ -89,8 +89,11 @@ class Hero extends React.Component {
                         alt="..."
                         className="ml-1"
                         style={{ height: "28px" }}
-                        src={require("assets/img/brand/creativetim-white-slim.png")}
+                        src={require("assets/img/brand/favicon.png")}
                       />
+                      <small className="text-white font-weight-bold mb-0 mr-2 ml-2">
+                         fuujin.tech
+                      </small>
                     </div>
                   </Col>
                 </Row>
