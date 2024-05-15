@@ -121,7 +121,7 @@ class DemoNavbar extends React.Component {
                   <NavItem>
                     <NavLink
                       className="nav-link-icon"
-                      href="https://www.facebook.com/creativetim"
+                      href="https://www.facebook.com/bayu.ariyadi.fuujin"
                       id="tooltip333589074"
                       target="_blank"
                     >
@@ -138,7 +138,7 @@ class DemoNavbar extends React.Component {
                   <NavItem>
                     <NavLink
                       className="nav-link-icon"
-                      href="https://github.com/creativetimofficial/argon-design-system-react"
+                      href="https://github.com/BayuAriyadi/hukum-pedia"
                       id="tooltip112445449"
                       target="_blank"
                     >
@@ -151,18 +151,18 @@ class DemoNavbar extends React.Component {
                       Star us on Github
                     </UncontrolledTooltip>
                   </NavItem>
-                  <NavItem className="d-none d-lg-block ml-lg-4">
+                  <NavItem className="d-none d-lg-block ml-lg-3">
                     <Button
                       className="btn-neutral btn-icon"
                       color="default"
-                      href="https://www.creative-tim.com/product/argon-design-system-react?ref=adsr-navbar"
+                      href="https://github.com/BayuAriyadi/hukum-pedia"
                       target="_blank"
                     >
                       <span className="btn-inner--icon">
-                        <i className="fa fa-cloud-download mr-2" />
+                        <i className="fa fa-github" />
                       </span>
-                      <span className="nav-link-inner--text ml-1">
-                        Download
+                      <span className="nav-link-inner--text ml-2">
+                        GitHub
                       </span>
                     </Button>
                   </NavItem>
