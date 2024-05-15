@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/hukum-pedia/static/css/main.cc586eb9.css",
+    "main.js": "/hukum-pedia/static/js/main.c673bb7d.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/hukum-pedia/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/team-2-800x800.jpg": "/hukum-pedia/static/media/team-2-800x800.3e08ef145920c93bbe32.jpg",
+    "static/media/img-1-1200x1000.jpg": "/hukum-pedia/static/media/img-1-1200x1000.df1442cf520034feb3b0.jpg",
+    "static/media/img-2-1200x1000.jpg": "/hukum-pedia/static/media/img-2-1200x1000.78ce5ecad91906896cd1.jpg",
+    "static/media/argon-react.png": "/hukum-pedia/static/media/argon-react.33ee14d1483efdf03b4b.png",
+    "static/media/team-3-800x800.jpg": "/hukum-pedia/static/media/team-3-800x800.70911cddbb86ea83b652.jpg",
+    "static/media/team-1-800x800.jpg": "/hukum-pedia/static/media/team-1-800x800.fa5a7ac2c81a43925586.jpg",
+    "static/media/fontawesome-webfont.eot": "/hukum-pedia/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/hukum-pedia/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/logo-alay.png": "/hukum-pedia/static/media/logo-alay.cd05c27f51089bc38ccc.png",
+    "static/media/landing.jpg": "/hukum-pedia/static/media/landing.530e5e3e621fe49e8e46.jpg",
+    "static/media/nucleo-icons.svg": "/hukum-pedia/static/media/nucleo-icons.01ebecaf50461162d4bc.svg",
+    "static/media/team-4-800x800.jpg": "/hukum-pedia/static/media/team-4-800x800.99c612eb60728a5aeeb0.jpg",
+    "static/media/profile.jpg": "/hukum-pedia/static/media/profile.991e6d2c8d229cc026b3.jpg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/hukum-pedia/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/ill-2.svg": "/hukum-pedia/static/media/ill-2.b82bc41ca8f27286779053cc2a544e93.svg",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/hukum-pedia/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/promo-1.png": "/hukum-pedia/static/media/promo-1.f39d32d244fa5beabbaf.png",
+    "static/media/favicon.png": "/hukum-pedia/static/media/favicon.5f124eb8e9041bb21c79.png",
+    "static/media/nucleo-icons.eot": "/hukum-pedia/static/media/nucleo-icons.19abb5402a664606b14c.eot",
+    "static/media/nucleo-icons.ttf": "/hukum-pedia/static/media/nucleo-icons.d6a66724e7a7bf1bba65.ttf",
+    "static/media/nucleo-icons.woff": "/hukum-pedia/static/media/nucleo-icons.c82c9b7c40130b7116d3.woff",
+    "static/media/nucleo-icons.woff2": "/hukum-pedia/static/media/nucleo-icons.cba267483aa6a7cb6e33.woff2",
+    "static/media/google.svg": "/hukum-pedia/static/media/google.eae9aa9354350126d1b032847835a051.svg",
+    "static/media/github.svg": "/hukum-pedia/static/media/github.6c95555646a0ecabf549179c97bf0e7d.svg",
+    "index.html": "/hukum-pedia/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.cc586eb9.css",
+    "static/js/main.c673bb7d.js"
+  ]
+}
